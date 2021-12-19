@@ -1,4 +1,4 @@
-#Vision4All
+# Vision4All
 
 This project is about a mobile application for indoor locomotion of visually impaired people through sound commands. Use of Android Studio, OpenCV and Dragonboard 410c. Identification of obstacles on the floor by keeping track of pixel density measured by the camera.
 
