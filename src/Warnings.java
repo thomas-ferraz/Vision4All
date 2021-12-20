@@ -17,6 +17,7 @@ public class Warnings {
     @SerializedName("comands")
     Double warning_value;
 
+    
     @SerializedName("timestamp")
     String timestamp;
 
