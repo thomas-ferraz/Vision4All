@@ -30,4 +30,5 @@ public class GetJson {
         String response = example.run("https://data.sparkfun.com/output/7JKYyK4Zw1FLpaX20JyN.json");
         System.out.println(response);
     }
+    
 }
